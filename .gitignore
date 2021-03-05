@@ -1,0 +1,4 @@
+cpp/obj
+cpp/output*
+*.jar
+java/obj
